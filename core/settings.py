@@ -33,6 +33,7 @@ ALLOWED_HOSTS = ['*']
 
 APPS_PROJECT = [
     'apps.authenticate.apps.AuthenticateConfig',
+    'apps.store.apps.StoreConfig',
 ]
 
 APPS_THER = [
